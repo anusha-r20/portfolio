@@ -1,9 +1,8 @@
-# portfolio
 ### Education
 Master of Science in Computer Science – University of Dayton and Dayton, Ohio
 Bachelor of Technology in Computer Science – JB Institute of Engineering and Technology, Hyderabad.
 ### Work Experience
-Full Stack Java Developer | zzzz, OH                                                                                     		        Sep 2022 – Present
+### Full Stack Java Developer | zzzz, OH                                                                                     		Sep 2022 – Present
 ●	Spearheaded the development of a high-throughput payment processing microservices architecture using Java 11 and Spring Boot 2.5, processing over 1.5 million transactions daily with 99.99% uptime.
 ●	Designed and implemented 7 event-driven microservices using Apache Kafka for message queuing, reducing system latency by 45% and improving scalability.
 ●	Integrated RESTful APIs with React.js to provide real-time transaction updates and account information, allowing users to see up-to-date account balances and transaction history.
@@ -24,7 +23,7 @@ Full Stack Java Developer | zzzz, OH                                            
 ●	Utilized AWS services including S3 for object storage, RDS for PostgreSQL databases, and CloudWatch for centralized logging and monitoring, improving system observability by 50%.
 ●	Implemented continuous integration and deployment (CI/CD) pipelines using Jenkins, automating build, test, and deployment processes, which reduced release cycles from bi-weekly to daily.
 
-Software Engineer - II | yyyy, India                                   		                                                           Feb 2021 – Jul 2022
+### Software Engineer - II | yyyy, India                                   		                                                           Feb 2021 – Jul 2022
 ●	Worked in the development of a scalable e-commerce platform using microservices architecture, resulting in a 40% improvement in system responsiveness.
 ●	Utilized Java 8, Spring Boot, and Spring MVC to build and maintain over 20 microservices, each handling specific business functionalities. Integrated machine learning models for product recommendations using Spring Cloud, increasing average order value.
 ●	Developed and maintained customer-facing e-commerce applications using React.js, improving user engagement and providing a smoother shopping experience by reducing page reloading.
@@ -47,7 +46,7 @@ Software Engineer - II | yyyy, India                                   		       
 ●	Conducted performance profiling using JProfiler, identifying and resolving memory leaks that improved application stability.
 ●	Implemented core Java best practices, including design patterns and SOLID principles, improving code maintainability scores.
 
-Software Engineer - I | xxxx, India                                                                                                                        Jul 2018 – Feb 2021
+### Software Engineer - I | xxxx, India                                                                                    Jul 2018 – Feb 2021
 •	Created RESTful APIs with NodeJs for handling HTTP requests, providing efficient CRUD operations and enabling seamless data exchange between backend services and MongoDB.
 •	Migrated backend applications to a microservices architecture using REST APIs and Spring Boot, deploying and maintaining these services on AWS EC2 instances within Docker containers.
 •	Built a high-performance RFP microservice using Spring Boot and Spring MVC, deployed to AWS Kubernetes, and integrated with AWS SNS/SQS for reliable messaging and AWS CloudWatch for system monitoring.
